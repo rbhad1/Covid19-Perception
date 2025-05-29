@@ -1,6 +1,6 @@
-For full project details on methodology, results, analysis, and future steps, please view [Project Report]()
-
 # Prediction of COVID-19 Perception Using Personal Financial Circumstances
+
+For full project details on methodology, results, analysis, and future steps, please view [Project Report (PDF)](./Prediction_of_COVID-19_Perception_Using_Personal_Financial_Circumstances___CS_7641_Group_16.pdf)
 
 To explore the relationship between perception of COVID and personal finance circumstance, we use machine learning methods to analyze data from [Harvard’s A Survey on Health Care Access During the COVID-19 Pandemic (June 2020)](https/dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XCKM0V). 
 
