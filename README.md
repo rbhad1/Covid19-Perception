@@ -14,8 +14,6 @@ Below is a summary of the results:
       <th colspan="2" style="border-bottom: 3px solid black; border-right: 3px solid black;">Logistic Regression</th>
       <th colspan="2" style="border-bottom: 3px solid black; border-right: 3px solid black;">Support Vector Machine</th>
       <th colspan="2" style="border-bottom: 3px solid black; border-right: 3px solid black;">Random Forest</th>
-
-
     </tr>
     <tr>
       <th style="border-bottom: 1px solid black; border-right: 1px solid black;">Worst Performing: SMOTE + 75% MCA</th>
@@ -24,8 +22,6 @@ Below is a summary of the results:
       <th style="border-bottom: 3px solid black; border-right: 3px solid black;">Best Performing: SMOTE</th>
       <th style="border-bottom: 1px solid black; border-right: 1px solid black;">Worst Performing: Raw Data</th>
       <th style="border-bottom: 3px solid black; border-right: 3px solid black;">Best Performing: SMOTE</th>
-
-
     </tr>
   </thead>
   <tbody>
@@ -34,12 +30,9 @@ Below is a summary of the results:
       <td style="border-top: 3px solid black; border-right: 1px solid black">0.51</td>
       <td style="border-top: 3px solid black; border-right: 3px solid black">0.63</td>
       <td style="border-right: 1px solid black; border-top: 3px solid black;">0.57</td>
-
       <td style="border-top: 3px solid black; border-right: 3px solid black">0.68</td>
       <td style="border-right: 1px solid black; border-top: 3px solid black">0.58</td>
-
       <td style="border-top: 3px solid black; border-right: 3px solid black">0.73</td>
-
     </tr>
   </tbody>
 </table>
