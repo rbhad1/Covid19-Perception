@@ -1,6 +1,7 @@
 # CS 7641 Group 16 Covid-19 Project
 
 ## GitHub Repository Guide
+```
 /codes/                        # All modeling code, evaluation scripts, and visualizations
 ├── data_cleaning.ipynb       # Initial data cleaning and preprocessing (first half of columns)
 ├── second_half_ohe.ipynb     # Initial data cleaning and preprocessing (second half of columns)
@@ -27,3 +28,4 @@
 └── mca_components_smote_95.csv     # MCA SMOTE dataset, 95% variance
 
 /docs/                        # For GitHub Pages integration (Jekyll template, assets, etc.)
+```
