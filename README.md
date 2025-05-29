@@ -20,10 +20,8 @@ Below is a summary of the results:
     <tr>
       <th style="border-bottom: 1px solid black; border-right: 1px solid black;">Worst Performing: SMOTE + 75% MCA</th>
       <th style="border-bottom: 3px solid black; border-right: 3px solid black;">Best Performing: SMOTE</th>
-
       <th style="border-bottom: 1px solid black; border-right: 1px solid black;">Worst Performing: Raw Data</th>
       <th style="border-bottom: 3px solid black; border-right: 3px solid black;">Best Performing: SMOTE</th>
-
       <th style="border-bottom: 1px solid black; border-right: 1px solid black;">Worst Performing: Raw Data</th>
       <th style="border-bottom: 3px solid black; border-right: 3px solid black;">Best Performing: SMOTE</th>
 
@@ -45,12 +43,6 @@ Below is a summary of the results:
     </tr>
   </tbody>
 </table>
-
-		
-
-
-
-
 
 For full project details on methodology, results, analysis, and future steps, please view [Project Report]()
 
