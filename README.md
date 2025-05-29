@@ -1,7 +1,7 @@
 # Prediction of COVID-19 Perception Using Personal Financial Circumstances
 
-For full project details on methodology, results, analysis, and future steps, please view [Project Report (PDF)](./Prediction_of_COVID-19_Perception_Using_Personal_Financial_Circumstances___CS_7641_Group_16.pdf)
-
+_For full project details on methodology, results, analysis, and future steps, please view [Project Report (PDF)](./Prediction_of_COVID-19_Perception_Using_Personal_Financial_Circumstances___CS_7641_Group_16.pdf)
+_
 To explore the relationship between perception of COVID and personal finance circumstance, we use machine learning methods to analyze data from [Harvard’s A Survey on Health Care Access During the COVID-19 Pandemic (June 2020)](https/dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XCKM0V). 
 
 For data preprocessing, we perform one-hot encoding to convert categorical variables into a numerical form, multiple correspondance analysis (MCA) to reduce the number of features, and SMOTE since the initial data had severe class imbalance. We first performed Hierarchical Clustering to determine how our data naturally clusters and if it clusters into sentiment categories of "Not Worried", "Somewhat Worried", and "Very Worried". We also ran Logistic Regression to determine if the data our data is linear or nonlinearlly organized. Both models showed our dataset has complex, nonlinear relationships, indicating that there is not a straightforward relationship between COVID-19 perception and personal finance situation. This prompted us to run models that can handle nonlinearly in data, namely Random Forest and Support Vector Machine (SVM). We concluded that the relationship between financial circumstances and attitudes toward COVID-19 may be more complex. While personal financial situations do play a role, attitudes are shaped by a variety of intersecting factors, highlighting the need for a more nuanced understanding of public health behavior.
