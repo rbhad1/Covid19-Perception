@@ -1,3 +1,5 @@
+For full project details on methodology, results, analysis, and future steps, please view [Project Report]()
+
 # Prediction of COVID-19 Perception Using Personal Financial Circumstances
 
 To explore the relationship between perception of COVID and personal finance circumstance, we use machine learning methods to analyze data from [Harvard’s A Survey on Health Care Access During the COVID-19 Pandemic (June 2020)](https/dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XCKM0V). 
@@ -39,11 +41,10 @@ Below is a summary of the results:
 
 
 
-For full project details on methodology, results, analysis, and future steps, please view [Project Report]()
-
-
 [1] E. Díaz McConnell, C. M. Sheehan, and A. Lopez, “An intersectional and social determinants of health framework for understanding Latinx psychological distress in 2020: Disentangling the effects of immigration policy and practices, the Trump Administration, and COVID-19-specific factors,” Journal of Latinx Psychology, vol. 11, no. 1, pp. 1–20, 2023.
+
 [2] D. Warmath, G. E. O’Connor, C. Newmeyer, and N. Wong, “Have I saved enough to social distance? The role of household financial preparedness in public health respgit puonse,” J. Consum. Aff., vol. 56, no. 1, pp. 319–338, 2022.
+
 [3] J. S. Trueblood, A. B. Sussman, D. O’Leary, and W. R. Holmes, “Financial constraint and perceptions of COVID-19,” Sci. Rep., vol. 13, no. 1, p. 3432, 2023.
 
 
